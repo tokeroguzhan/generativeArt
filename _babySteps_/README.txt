@@ -1,0 +1,2 @@
+This is the first coding I have ever did with p5.js. I followed the instructions of @generativelight's flood. You can check that flood from https://twitter.com/generativelight/status/1519759169045381127
+All thanks to @generativelight
